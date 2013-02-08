@@ -1,5 +1,5 @@
-FuelPHP Code
-===========
+FuelPHP QRCode
+==============
 
 QRCode libraries namespaced into FuelPHP package
 
