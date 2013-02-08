@@ -1,7 +1,7 @@
 FuelPHP QRCode
 ==============
 
-QRCode libraries namespaced into FuelPHP package
+QRCode library created as a FuelPHP package.
 
 
 Usage
